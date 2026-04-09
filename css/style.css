@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+
+.textoBlanco {
+    color: while;
+}
